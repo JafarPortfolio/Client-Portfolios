@@ -21,7 +21,7 @@ Client 2: Tick Removal Tool
     
 
  Client 3: Cocktail Mixer
- ![Snap_Percentage](https://cdn.shopify.com/s/files/1/0883/7464/0942/files/Screenshot_2024-06-19_124516.png?v=1718781975)
+ ![Snap_Percentage](https://cdn.shopify.com/s/files/1/0883/7464/0942/files/Screenshot_2024-06-19_175351.png?v=1718799859)
 
  
  Client 4: Light Therapy Lamp
