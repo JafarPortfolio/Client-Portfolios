@@ -13,29 +13,18 @@ The dashboards offer powerful features to help manage and optimize Amazon seller
         
 Snap of client dashboards,
 
-Client 1: Tick Removal Glove
+Client 1: Tick Removal Glove (Sales Growth Percentage= 2410 %)
 ![Snap_1](https://cdn.shopify.com/s/files/1/0883/7464/0942/files/Screenshot_2024-06-19_124245.png?v=1718781388)
 
-Client 2: Tick Removal Tool
+Client 2: Tick Removal Tool (Sales Growth Percentage = 390 %)
 ![Snap_Count](https://cdn.shopify.com/s/files/1/0883/7464/0942/files/Screenshot_2024-06-19_124440.png?v=1718781682)
     
 
- Client 3: Cocktail Mixer
+ Client 3: Cocktail Mixer (Sales Growth Percentage = 2750 %)
  ![Snap_Percentage](https://cdn.shopify.com/s/files/1/0883/7464/0942/files/Screenshot_2024-06-19_175351.png?v=1718799859)
 
  
- Client 4: Light Therapy Lamp
+ Client 4: Light Therapy Lamp (Sales Growth Percentage = 8 %)
  ![Snap_3](https://cdn.shopify.com/s/files/1/0883/7464/0942/files/Screenshot_2024-06-19_124551.png?v=1718782330)
  
 
-Following inferences can be drawn from the dashboard;
-
-### [1] Sales Growth Percentage
-
-   Client 1 = 2410 %
-
-   Client 2 = 390 %
-
-   Client 3 = 2750 %
-
-   Client 4 = 8 %
